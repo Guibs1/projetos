@@ -29,6 +29,7 @@ class CorrenteDeDescontos {
             $valorDesconto = $desconto->calcula($orcamento);
         }
         return $valorDesconto;
+        echo -e '[Desktop Entry]\n Version=1.0\n Name=phpstorm\n Exec=/opt/phpstorm/bin/phpstorm.sh\n Icon=/opt/phpstorm/bin/phpstorm.png\n Type=Application\n Categories=Application' | sudo tee /usr/share/applications/phpstorm.desktop
         */
 
         $desconto5itens = new Desconto5Itens();
