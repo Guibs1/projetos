@@ -1,6 +1,6 @@
 <html>
 	<head>
-		<title>ue</title>
+		<title>chain of responsibility</title>
 	</head>
 	<body>
 		<?php
